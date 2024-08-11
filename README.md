@@ -115,7 +115,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or support, please contact:
+To access dataset used in this project! email us
 
 - **Email**: [saad.naveed.dev@gmail.com]
 
