@@ -37,7 +37,7 @@ The dataset consists of Urdu news articles categorized into 16 different classes
 - Inflation
 - Murder and Death
 - Education
-- Law and Order
+- Law and Orders
 - Social Media
 - Earthquakes
 
@@ -55,7 +55,7 @@ Preprocessing steps include:
 ## Models Used
 
 1. **DistilBERT**: A distilled version of BERT, optimized for efficiency and speed while retaining most of the accuracy.
-2. **CamemBERT**: A transformer model specifically fine-tuned for the French language, used here due to its multilingual capabilities.
+2. **CamemBERT**: A transformer model that is specifically fine-tuned for the French language, used here due to its multilingual capabilities.
 
 ## Training
 
