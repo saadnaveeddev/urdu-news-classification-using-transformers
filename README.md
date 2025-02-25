@@ -13,7 +13,6 @@ This repository contains a project focused on classifying Urdu news articles int
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -105,9 +104,6 @@ This will initiate the training process, followed by the evaluation of the model
 
 The results of the models will be displayed in terms of accuracy, confusion matrix, and ROC AUC curves. These results will help in understanding the performance of the models on the Urdu news classification task.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue if you have any ideas for improvement.
 
 ## License
 
