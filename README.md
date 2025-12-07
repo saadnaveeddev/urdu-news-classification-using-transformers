@@ -1,6 +1,6 @@
 # Urdu News Classification with Transformers
 
-This repository contains a project focused on classifying Urdu news articles into various categories using transformers such as DistilBERT and CamemBERT. The project includes preprocessing of the data, training of models, and evaluation using various metrics like accuracy, confusion matrix, and ROC AUC curve.
+This repository contains a project focused on classifying Urdu news articles into various categories using transformers such as DistilBERT and CamemBERT. The project includes preprocessing of the data, training of models, and evaluation using various metrics like accuracy, confusion matrix, and ROC AUC curve
 
 ## Table of Contents
 
